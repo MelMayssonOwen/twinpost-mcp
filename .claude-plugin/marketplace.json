@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "twinpost",
+  "owner": { "name": "Mel Owen", "url": "https://go.twinpo.st/mkt-github" },
+  "metadata": { "description": "Twinpost: crosspost from chat, as a remote MCP server." },
+  "plugins": [
+    {
+      "name": "twinpost",
+      "source": "./plugins/twinpost",
+      "description": "Crosspost from chat: see the accounts and X mirrors in your Twinpost workspace, check what was mirrored or failed, preview a post on each network, draft a crosspost for Bluesky, Threads, Telegram, LinkedIn and more, and publish or retry only when you confirm.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["crosspost", "social media", "mcp"],
+      "homepage": "https://go.twinpo.st/mkt-github-docs",
+      "license": "MIT"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "twinpost",
+  "displayName": "Twinpost",
+  "version": "1.0.0",
+  "description": "Crosspost from chat: see the accounts and X mirrors in your Twinpost workspace, check what was mirrored or failed, preview a post on each network, draft a crosspost for Bluesky, Threads, Telegram, LinkedIn and more, and publish or retry only when you confirm.",
+  "author": { "name": "Mel Owen", "url": "https://go.twinpo.st/mkt-github" },
+  "homepage": "https://go.twinpo.st/mkt-github-docs",
+  "repository": "https://github.com/MelMayssonOwen/twinpost-mcp",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://twinpo.st/privacy",
+  "keywords": ["crosspost", "social media", "x", "bluesky", "threads", "linkedin", "telegram", "mcp"]
+}

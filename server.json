@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.MelMayssonOwen/twinpost",
+  "title": "Twinpost",
+  "description": "Crosspost from chat: check your X mirrors, preview and draft crossposts, publish or retry only when you confirm.",
+  "repository": {
+    "url": "https://github.com/MelMayssonOwen/twinpost-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "websiteUrl": "https://go.twinpo.st/mkt-mcpregistry",
+  "icons": [
+    { "src": "https://twinpo.st/icon.svg", "mimeType": "image/svg+xml", "sizes": ["any"] },
+    { "src": "https://twinpo.st/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] }
+  ],
+  "remotes": [
+    { "type": "streamable-http", "url": "https://twinpo.st/mcp" }
+  ]
+}
